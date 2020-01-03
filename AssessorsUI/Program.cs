@@ -15,7 +15,7 @@ namespace AssessorsUI
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmAssessorsViewer());   
+            Application.Run(new frmLogin());   
         }
     }
 }
